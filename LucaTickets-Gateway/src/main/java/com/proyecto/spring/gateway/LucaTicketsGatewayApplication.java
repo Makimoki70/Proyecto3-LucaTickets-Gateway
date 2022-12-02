@@ -11,5 +11,4 @@ public class LucaTicketsGatewayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LucaTicketsGatewayApplication.class, args);
 	}
-
 }
